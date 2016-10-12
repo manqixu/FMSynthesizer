@@ -1,7 +1,7 @@
-# Frequency Modulation (FM)
+# FMSynthesizer
 
-Demonstrates how to implement a simple FM synthesizer in JUCE from scratch.
+FMSynthesizer is an software music instrument built on JUCE to play music. You play different pitches by hitting '1' to '8' keys on the keyboard, and control volume by hitting '-' or '+'.
 
----
+Check out the video: https://vimeo.com/187088709
 
-Implemented by Romain Michon (rmichonATccrmaDOTstanfordDOTedu) for Music 256a / CS 476a (fall 2016).
+By Maggie XU @ Stanford CS476A
